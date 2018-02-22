@@ -1,0 +1,10 @@
+{
+  "name": "utilities",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "AroSaneD",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^2.7.2"
+  }
+}
